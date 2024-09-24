@@ -9,7 +9,7 @@ Estou em busca de uma oportunidade para aplicar minhas habilidades, adquirir exp
 
 ## Um pouco sobre mim:
 
-- Possuo proficiência em PostgreSQL, Python e computação em nuvem, especialmente na AWS.
+- Possuo proficiência em PostgreSQL, Oracle Database, Python e computação em nuvem, especialmente na AWS.
 - Experiência em protocolos TCP e UDP.
 - Certificações em Python, AWS e Segurança na Internet, demonstrando meu compromisso com o aprendizado contínuo e o aprimoramento das minhas habilidades.
 - Certificações em tecnologias de computação em nuvem da AWS, solidificando meu conhecimento e expertise nessa área crucial.
